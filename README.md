@@ -1,2 +1,1 @@
-# Sisteme de recomandare
-
+# Adidas United States Sales Dataset
